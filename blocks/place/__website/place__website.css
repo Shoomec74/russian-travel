@@ -1,14 +1,15 @@
 .place__website {
-  max-width: 100%;
+  max-width  : 100%;
   grid-column: col 2 / span 1;
-  grid-row: row;
-  align-self: end;
+  grid-row   : row;
+  align-self : end;
 }
 
-@media screen and (max-width: 321px){
+@media screen and (max-width: 321px) {
   .place__website {
-    max-width: 352px;
+    max-width  : 352px;
     grid-column: col 1 / span 1;
-    grid-row: row 2;
+    grid-row   : row 2;
+    padding    : 0 16px;
   }
 }

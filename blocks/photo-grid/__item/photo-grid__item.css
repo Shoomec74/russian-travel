@@ -1,39 +1,50 @@
 .photo-grid__item {
-  background-size: cover;
-  max-width: 100%;
-  padding-bottom: 75%;
-  background-image: url(../../../images/webp/photo-grid__item.webp);
+  background-size : cover;
+  max-width       : 100%;
+  padding-bottom  : 75%;
+  background-image: url(../../../images/photo-grid__item.webp);
 }
+
 .photo-grid__item:nth-of-type(2) {
-  background-image: url(../../../images/webp/photo-grid__item-1.webp);
+  background-image: url(../../../images/photo-grid__item-1.webp);
 }
+
 .photo-grid__item:nth-of-type(3) {
-  background-image: url(../../../images/webp/photo-grid__item-2.webp);
+  background-image: url(../../../images/photo-grid__item-2.webp);
 }
+
 .photo-grid__item:nth-of-type(4) {
-  background-image: url(../../../images/webp/photo-grid__item-3.webp);
+  background-image: url(../../../images/photo-grid__item-3.webp);
 }
+
 .photo-grid__item:nth-of-type(5) {
-  background-image: url(../../../images/webp/photo-grid__item-4.webp);
+  background-image: url(../../../images/photo-grid__item-4.webp);
 }
+
 .photo-grid__item:nth-of-type(6) {
-  background-image: url(../../../images/webp/photo-grid__item-5.webp);
+  background-image: url(../../../images/photo-grid__item-5.webp);
 }
+
 .photo-grid__item:nth-of-type(7) {
-  background-image: url(../../../images/webp/photo-grid__item-6.webp);
+  background-image: url(../../../images/photo-grid__item-6.webp);
 }
+
 .photo-grid__item:nth-of-type(8) {
-  background-image: url(../../../images/webp/photo-grid__item-7.webp);
+  background-image: url(../../../images/photo-grid__item-7.webp);
 }
+
 .photo-grid__item:nth-of-type(9) {
-  background-image: url(../../../images/webp/photo-grid__item-8.webp);
+  background-image: url(../../../images/photo-grid__item-8.webp);
 }
+
 .photo-grid__item:nth-of-type(10) {
-  background-image: url(../../../images/webp/photo-grid__item-9.webp);
+  background-image: url(../../../images/photo-grid__item-9.webp);
 }
+
 .photo-grid__item:nth-of-type(11) {
-  background-image: url(../../../images/webp/photo-grid__item-10.webp);
+  background-image: url(../../../images/photo-grid__item-10.webp);
 }
+
 .photo-grid__item:nth-of-type(12) {
-  background-image: url(../../../images/webp/photo-grid__item-11.webp);
+  background-image: url(../../../images/photo-grid__item-11.webp);
 }

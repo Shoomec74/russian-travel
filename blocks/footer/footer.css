@@ -1,9 +1,10 @@
 .footer {
-  max-width: 1184px;
-  display: flex;
+  max-width      : 1184px;
+  display        : flex;
   justify-content: space-between;
-  margin: 0 auto;
-  margin-top: 92px;
+  margin         : 0 auto;
+  margin-top     : 92px;
+  flex-wrap      : wrap;
 }
 
 @media screen and (max-width: 1025px) {
@@ -14,17 +15,18 @@
 
 @media screen and (max-width: 769px) {
   .footer {
-    max-width: 720px;
+    max-width : 720px;
     margin-top: 88px;
+    min-height: auto;
   }
 }
 
 @media screen and (max-width: 321px) {
   .footer {
-    max-width: 186px;
-    min-height: 310px;
+    max-width     : 186px;
+    min-height    : 310px;
     flex-direction: column;
-    flex-wrap: wrap;
-    margin: 64px 0 0 16px;
+    flex-wrap     : wrap;
+    margin        : 64px 0 0 16px;
   }
 }

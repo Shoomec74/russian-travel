@@ -28,5 +28,6 @@
     grid-template-columns: repeat(1, [col] minmax(min-content, max-content));
     grid-template-rows   : repeat(3, [row] minmax(min-content, max-content));
     row-gap              : 32px;
+    padding-bottom       : 50px;
   }
 }

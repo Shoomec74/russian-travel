@@ -1,10 +1,10 @@
 .intro__text {
-  width: 100%;
-  height: auto;
-  font-size: 16px;
-  line-height: 163%;
-  font-weight: normal;
   font-family: 'Inter', 'Arial', sans-serif;
-  padding: 40px 0 33px;
-  color: white;
+  font-weight: normal;
+  font-size  : 16px;
+  line-height: 163%;
+  color      : white;
+  width      : 100%;
+  height     : auto;
+  padding    : 40px 0 33px;
 }
