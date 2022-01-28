@@ -1,0 +1,5 @@
+.header__lang-menu {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 6px;
+}

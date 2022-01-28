@@ -1,0 +1,12 @@
+.place__text-area {
+  max-width: 100%;
+  grid-column: col 2 / span 1;
+  grid-row: row 2;
+}
+
+@media screen and (max-width: 321px){
+  .place__text-area {
+    grid-column: col 1 / span 1;
+    grid-row: row 4;
+  }
+}
