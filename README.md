@@ -18,3 +18,6 @@ __"Путешествия по России"__ - однастраничный с
 * __BEM Methodology__
 * __Файловая структура по БЭМ__
 * __Git-pages__
+
+
+[Проект Путешествия по России на GitHub Pages](https://shoomec74.github.io/russian-travel/)
