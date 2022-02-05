@@ -4,12 +4,12 @@
   line-height: 22px;
   font-weight: normal;
   color      : white;
-  transition : opacity 0.4s ease-in-out;
+  transition : opacity .4s ease-in-out;
 }
 
 .place__link:hover {
-  opacity: 0.8;
-  cursor : url('../../../images/Pointer.png'), pointer;
+  opacity: .8;
+  cursor : url('../../../images/pointer.svg'), pointer;
 }
 
 @media screen and (max-width: 767px) {
