@@ -13,7 +13,7 @@
   cursor : url('../../../images/pointer.svg'), pointer;
 }
 
-@media screen and (max-width: 321px) {
+@media screen and (max-width: 721px) {
   .footer__link {
     font-size  : 24px;
     line-height: 1;

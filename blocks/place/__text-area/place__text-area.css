@@ -4,11 +4,15 @@
   grid-row   : row 2;
 }
 
-@media screen and (max-width: 321px) {
+@media screen and (max-width: 676px) {
   .place__text-area {
     grid-column: col 1 / span 1;
     grid-row   : row 4;
-    padding    : 0 16px;
-    margin-top : -32px;
+  }
+}
+
+@media screen and (max-width: 321px) {
+  .place__text-area {
+    padding: 0 16px 0;
   }
 }

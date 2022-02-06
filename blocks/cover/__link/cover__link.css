@@ -1,8 +1,7 @@
 .cover__link {
-  max-width          : 100%;
   text-decoration: none;
 }
 
 .cover__link:hover {
-  cursor          : url('../../../images/pointer.svg'), pointer;
+  cursor: url('../../../images/pointer.svg'), pointer;
 }

@@ -3,10 +3,9 @@
   flex-wrap: wrap;
 }
 
-@media screen and (max-width: 321px) {
+@media screen and (max-width: 721px) {
   .footer__link-list {
-    min-height     : 310px;
     flex-direction : column;
-    justify-content: space-between;
+    justify-content: start;
   }
 }

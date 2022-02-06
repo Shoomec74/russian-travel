@@ -7,32 +7,27 @@
   text-align    : center;
   color         : white;
   padding-bottom: calc((245/1184)*100%);
-  padding-left: calc((412/1184)*100%);
-  padding-right: calc((412/1184)*100%);
+  margin        : 0 auto;
 }
 
 @media screen and (max-width: 1025px) {
   .cover__subtitle {
     padding-bottom: calc((195/1024)*100%);
-    padding-left: calc((332/1024)*100%);
-    padding-right: calc((332/1024)*100%);
+
   }
 }
 
 @media screen and (max-width: 769px) {
   .cover__subtitle {
     padding-bottom: calc((115/768)*100%);
-    padding-left: calc((204/768)*100%);
-    padding-right: calc((204/768)*100%);
   }
 }
 
 @media screen and (max-width: 321px) {
   .cover__subtitle {
-    max-width     : 288px;
-    font-size     : 14px;
-    line-height   : 16px;
-    padding: 0 0 33px;
-    margin: 0 auto;
+    max-width  : 288px;
+    font-size  : 14px;
+    line-height: 16px;
+    padding    : 0 0 33px;
   }
 }
