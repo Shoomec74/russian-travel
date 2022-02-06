@@ -1,8 +1,0 @@
-.cover__background {
-  max-width : 100%;
-  transition: background .4s ease-in-out;
-}
-
-.cover__background:hover {
-  background: rgba(0, 0, 0, .5);
-}

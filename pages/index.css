@@ -26,6 +26,7 @@
 /* Подключаем стили photo-grid*/
 @import url('../blocks/photo-grid/photo-grid.css');
 @import url('../blocks/photo-grid/__img/photo-grid__img.css');
+@import url('../blocks/photo-grid/__list/photo-grid__list.css');
 /* Подключаем стили places*/
 @import url('../blocks/places/places.css');
 @import url('../blocks/place/place.css');
@@ -41,7 +42,6 @@
 @import url('../blocks/cover/__title/cover__title.css');
 @import url('../blocks/cover/__subtitle/cover__subtitle.css');
 @import url('../blocks/cover/__link/cover__link.css');
-@import url('../blocks/cover/__background/cover__background.css');
 /* Подключаем стили footer*/
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__link-list/footer__link-list.css');
